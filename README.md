@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm M. Zara Murphy</h1>
+<h1 align="center">Hello! I'm M. Zara Murphy,</h1>
 <h3 align="center">A lover of tech with experience and passion for secure systems, automation, and networking.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Murphy-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
+  <a href="https://www.linkedin.com/in/mariesha-zara-murphy">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logo=linkedin" alt="LinkedIn Badge" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mzaramurphy@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email Badge" />
   </a>
 </p>
 
 ---
 
-### 🚧 What I'm working on
+### 🚧 What I'm working on 🚧
 
 - Completing my BSc in Computer Science with a predicted First-Class Honours 
 - Finalising my dissertation project: **ddg** – a custom debugger for Unix systems written in C/C++
@@ -21,10 +21,16 @@
 
 ---
 
-### ✅ Recent Projects
+### ✅ Recent Projects & Wins ✅ 
 
-- 🧠 **HeapHeaver** – A completed custom memory integrity analysis tool for C programs on Unix, built with Bash automation and Docker-based reproducible builds  
-  <sub>Designed to assist in secure memory analysis where tools like Valgrind are unavailable</sub>
+
+ 
+- 🧠 **HeapHeaver** -  C Project
+
+<sub>Created a custom memory integrity analysis tool for C on Unix. Leveraged Bash scripting and Docker for reproducible, secure builds—ideal for environments where tools like Valgrind aren’t available</sub>
+- 👩‍💻 **Software Developer Placement** - 12-month Internship
+ 
+<sub>Built Unix utilities using C, C++, and Bash. Worked heavily with Docker and VMware ESXi to streamline development and system testing in virtulized environments</sub>
 
 ---
 
