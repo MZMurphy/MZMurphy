@@ -30,13 +30,13 @@
 <sub>Created a custom memory integrity analysis tool for C on Unix. Leveraged Bash scripting and Docker for reproducible, secure builds—ideal for environments where tools like Valgrind aren’t available</sub>
 - 👩‍💻 **Software Developer Placement** - 12-month Internship
  
-<sub>Built Unix utilities using C, C++, and Bash. Worked heavily with Docker and VMware ESXi to streamline development and system testing in virtulized environments</sub>
+<sub>Built Unix utilities using C, C++, and Bash. Worked heavily with Docker and VMware ESXi to streamline development and system testing in virtulised environments</sub>
 
 ---
 
 ### 📚 What I'm learning
 
-- 🌐 Advanced networking: BGP, OSPF, NAT, VLANs, and network security (via CCNA)
+- 🌐 Advanced networking: BGP, OSPF, NAT, VLANs, and network security (via CCNA & internships)
 - ☁️ Cloud infrastructure: AWS CDK, CloudFormation, VPC design, CI/CD pipelines (via CCNA, university modules, internships and self-teaching)
 - 🧠 Systems-level development (UNIX/POSIX), debugging tools, memory introspection (via internships, dissertation project, and self-teaching )
 - 🔐 Secure automation and observability practices for modern infrastructure (via internships and self-teaching)
