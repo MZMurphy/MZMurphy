@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm M. Zara Murphy,</h1>
-<h3 align="center">A lover of tech with experience and passion for secure systems, automation, and networking.</h3>
+<h3 align="center">A lover of learning with experience and passion for secure systems, automation, and networking.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariesha-zara-murphy">
@@ -15,20 +15,24 @@
 ### 🚧 What I'm working on 🚧
 
 - Completing my BSc in Computer Science with a predicted First-Class Honours 
+- Working as the only non-postgraduate teaching assistant for 'Operating Systems & Networking' module @ UoL
 - Finalising my dissertation project: **ddg** – a custom debugger for Unix systems written in C/C++
-- Deploying **automated AWS network infrastructure** using CDK as part of my Network Development Engineer internship at AWS
 - Continuing preparation for the **Cisco Certified Network Associate (CCNA)** certification
 
 ---
 
 ### ✅ Recent Projects & Wins ✅ 
 
+- **Only non-postgraduate teching assisant for OS&N module** 
 
+- **AWS Internship** - 3-month Internship, IE
+
+<sub>Automated AWS network deployments with Python, TypeScript, CDK, and CloudFormation; troubleshot L2/L3 networking issues</sub>
  
 - 🧠 **HeapHeaver** -  C Project
 
 <sub>Created a custom memory integrity analysis tool for C on Unix. Leveraged Bash scripting and Docker for reproducible, secure builds—ideal for environments where tools like Valgrind aren’t available</sub>
-- 👩‍💻 **Software Developer Placement** - 12-month Internship
+- 👩‍💻 **Software Developer Placement** - 12-month Internship, UK
  
 <sub>Built Unix utilities using C, C++, and Bash. Worked heavily with Docker and VMware ESXi to streamline development and system testing in virtulised environments</sub>
 
