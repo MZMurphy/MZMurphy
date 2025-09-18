@@ -23,7 +23,9 @@
 
 ### ✅ Recent Projects & Wins ✅ 
 
-- **Only non-postgraduate teching assisant for OS&N module** 
+- **Teaching Assistant** – Operating Systems & Networking (OS&N) Module
+
+<sub>Selected as the only non-postgraduate TA for this core module. Supported students with concurrency, multithreaded programming, and networking in Bash/C/Unix, helping debug synchronisation issues, thread management, and socket programming challenges</sub>
 
 - **AWS Internship** - 3-month Internship, IE
 
