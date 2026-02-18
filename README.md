@@ -15,7 +15,8 @@
 
 - Completing my **BSc** in Computer Science with a predicted First-Class Honours 
 - Working as the only **non-postgraduate teaching assistant** for 'Operating Systems & Networking' module @ UoL
-- Finalising my dissertation project: **ddg** – a custom debugger for Unix systems written in C/C++
+- Finalising my dissertation project: **DeepDig** – a custom debugger for Unix systems written in C/C++
+    - Sadly I cannot feature this until I am complete with my studies! But I've recieved complements from those in Amazon Linux and Debian Open-source community for my work so far. 
 - Preparing to start as an **Incoming Quant Platform Engineer at QRT**
 - Continuing preparation for the **Cisco Certified Network Associate (CCNA)** certification
 
