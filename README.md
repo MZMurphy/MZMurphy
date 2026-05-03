@@ -1,16 +1,18 @@
-
-<h1 align="center">Hi, I'm Zara 👋</h1>
-<h3 align="center">Systems and infrastructure engineer — kernel-level tooling to large-scale cloud network automation.</h3>
+<p align="center">
+  <a href="https://github.com/MZMurphy">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A8B3CF&center=true&vCenter=true&width=720&height=120&lines=~%2Fzara+%24+whoami;%3E+Systems+%26+infrastructure+engineer;%3E+kernel-level+tooling+%E2%86%92+large-scale+cloud+network+automation" alt="Terminal header" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://zaranara.uk">
-    <img src="https://img.shields.io/badge/Portfolio-zaranara.uk-black?style=flat-square&logo=githubpages" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/badge/Portfolio-zaranara.uk-0d1117?style=flat-square&logo=githubpages&logoColor=A8B3CF" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mariesha-zara-murphy">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=A8B3CF" alt="LinkedIn" />
   </a>
   <a href="mailto:mzaramurphy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=flat-square&logo=gmail&logoColor=A8B3CF" alt="Email" />
   </a>
 </p>
 
@@ -71,3 +73,13 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+<p align="center">
+  <sub>
+    Last updated: November 2026 · Open to collabs on systems & infrastructure projects
+    <br />
+    <a href="https://zaranara.uk">zaranara.uk</a> · <a href="mailto:mzaramurphy@gmail.com">mzaramurphy@gmail.com</a>
+  </sub>
+</p>
