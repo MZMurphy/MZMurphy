@@ -22,7 +22,7 @@
 
 - **DeepDig** — a from-scratch x86_64 Linux debugger written in C/C++. Direct kernel interfacing via `ptrace`, ELF/DWARF symbol parsing for source-to-address mapping, and CPU debug registers for hardware breakpoints and memory watchpoints. Works with any natively compiled language.
 - **CCNA** — finishing certification alongside continued self-study in BGP, OSPF, and L2/L3 network security.
-- Starting as a **Quant Platform Engineer at QRT** in June 2026.
+- Starting at **QRT** in June 2026.
 
 ---
 
